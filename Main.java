@@ -1,4 +1,4 @@
-package com.github.OlehSvidunov.WeatherBot;
+package com.github.ilguvat.pool;
 
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
