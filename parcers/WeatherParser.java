@@ -1,4 +1,4 @@
-package com.github.ilguvat.owmrb.parcers;
+package com.github.ilguvat.WeatherBot.parcers;
 
 public interface WeatherParser {
 
