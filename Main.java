@@ -1,4 +1,4 @@
-package com.github.ilguvat.pool;
+package com.github.ilguvat.owmrb;
 
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
