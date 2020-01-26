@@ -1,7 +1,7 @@
-package com.github.ilguvat.owmrb;
+package com.github.ilguvat.WeatherBot;
 
-import com.github.ilguvat.owmrb.parcers.OpenWeatherMapJsonParser;
-import com.github.ilguvat.owmrb.parcers.WeatherParser;
+import com.github.ilguvat.WeatherBot.parcers.OpenWeatherMapJsonParser;
+import com.github.ilguvat.WeatherBot.parcers.WeatherParser;
 import org.telegram.abilitybots.api.bot.AbilityBot;
 import org.telegram.abilitybots.api.objects.Ability;
 import org.telegram.abilitybots.api.objects.MessageContext;
