@@ -1,4 +1,4 @@
-package com.github.ilguvat.pool.util;
+package com.github.ilguvat.WeatherBot.util;
 
 import java.util.HashMap;
 import java.util.Map;
