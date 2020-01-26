@@ -1,4 +1,4 @@
-package com.github.ilguvat.owmrb.parcers;
+package com.github.ilguvat.WeatherBot.parcers;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
