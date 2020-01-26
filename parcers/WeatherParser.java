@@ -1,4 +1,4 @@
-package com.github.ilguvat.pool.parcers;
+package com.github.ilguvat.owmrb.parcers;
 
 public interface WeatherParser {
 
