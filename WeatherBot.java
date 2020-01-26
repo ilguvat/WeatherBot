@@ -1,7 +1,7 @@
-package com.github.ilguvat.pool;
+package com.github.ilguvat.owmrb;
 
-import com.github.ilguvat.pool.parcers.OpenWeatherMapJsonParser;
-import com.github.ilguvat.pool.parcers.WeatherParser;
+import com.github.ilguvat.owmrb.parcers.OpenWeatherMapJsonParser;
+import com.github.ilguvat.owmrb.parcers.WeatherParser;
 import org.telegram.abilitybots.api.bot.AbilityBot;
 import org.telegram.abilitybots.api.objects.Ability;
 import org.telegram.abilitybots.api.objects.MessageContext;
@@ -12,9 +12,9 @@ import static org.telegram.abilitybots.api.objects.Privacy.PUBLIC;
 
 public class WeatherBot extends AbilityBot {
     //Replace "..." with your Telegram bot token
-    private static final String BOT_TOKEN = "...";
+    private static final String BOT_TOKEN = "AAHXu92ZD7c5Xbq4tk66iWy7YAiTCoHt6sM";
     //Replace "..." with your Telegram bot name
-    private static final String BOT_NAME = "FineWeatherBot";
+    private static final String BOT_NAME = "OpenWeatherBotRB";
     private WeatherParser weatherParser = new OpenWeatherMapJsonParser();
 
     public WeatherBot() {
